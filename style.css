@@ -1,0 +1,25 @@
+.table{
+    margin: 0px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: none;
+    width: 35%;
+    text-align: left;
+    padding: 1px;
+}
+.table2{
+    margin: 0px;
+    border-top: none;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 35%;
+    text-align: left;
+    padding: 1px;
+}
+tr, td{
+    padding: 10px;
+    border:  1px solid black;
+    width: 20%;
+}
